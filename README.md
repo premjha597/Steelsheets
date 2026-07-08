@@ -4,7 +4,7 @@ A modern, high-performance industrial website built using **React + Vite + TypeS
 
 ---
 
-## 🌐 Live Demo
+## Live Demo
 
-👉 http://13.63.82.249
+ http://13.63.82.249
 
